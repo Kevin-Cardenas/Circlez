@@ -13,7 +13,7 @@ import com.cardenask.handlers.GameStateManager;
 
 /**
  * Main - class which starts the Circlez game
- * @see ApplicationAdapter
+ * @see com.badlogic.gdx.ApplicationAdapter
  */
 public class Main extends ApplicationAdapter {
 
